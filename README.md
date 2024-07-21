@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertij&label=Profile%20views&color=0e75b6&style=flat" alt="albertij" /> </p>
 
-- 🔭 I’m currently working on [amigosdelmate](amigosdelmate.com.ar)
+##- 🔭 I’m currently working on [amigosdelmate](amigosdelmate.com.ar)
 
-- 🔭 I’m currently working on [inclusionsocial](inclusionsocial.com.ar)
+##- 🔭 I’m currently working on [inclusionsocial](inclusionsocial.com.ar)
 
-- 🔭 I’m currently working on [consultor-it.com.ar](consultor-it.com.ar)
+##- 🔭 I’m currently working on [consultor-it.com.ar](consultor-it.com.ar)
 
 - 💬 Ask me about **what is normal?**
 
-- 📫 How to reach me **jalberti@desarrollador-it.com.ar**
+- 📫 How to reach me **juan.b.alberti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
