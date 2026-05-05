@@ -1,11 +1,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertij&label=Profile%20views&color=0e75b6&style=flat" alt="albertij" /> </p>
 
-# Hi 👋, soy Juan Alberti
+# Hi 👋, soy Juan
 
-**No-Code Developer** basado en Buenos Aires, Argentina 🇦🇷
+**No-Code Developer** de Buenos Aires, Argentina 🇦🇷
 
-Creo soluciones digitales rápidas y funcionales usando herramientas **no-code** y low-code.
+Creo soluciones digitales en base a problematicas actuales y funcionales usando herramientas **no-code** y low-code.
 
 ---
 
@@ -34,8 +34,8 @@ Creo soluciones digitales rápidas y funcionales usando herramientas **no-code**
 ### 🌱 Sobre mí
 - Proteccionista animal 🐶🐱
 - Maker — Carpintería y reciclado 🪚
-- Tiro con arco 🏹
-- Trabajo en Gobierno de la Provincia de Buenos Aires
+- Hobbies arco 🏹
+- Trabajo Para El Gobierno de la Provincia de Buenos Aires, Organismo de Ministerio de Nacion
 
 ---
 
