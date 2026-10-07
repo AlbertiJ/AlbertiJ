@@ -1,3 +1,11 @@
 # La foto y la imagen del sombrero de origen no se publican
 assets/source/
 __pycache__/
+
+# Secretos y datos locales (no subir nunca)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.session
