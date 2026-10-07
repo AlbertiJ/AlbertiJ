@@ -1,0 +1,41 @@
+name: Actualizar estadisticas
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # todos los dias, 05:17 UTC
+  workflow_dispatch:        # tambien a mano: pestana Actions > Run workflow
+
+permissions:
+  contents: write           # para commitear los SVG regenerados
+
+concurrency:
+  group: stats
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generar tarjetas
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/stats.py
+
+      - name: Commitear si cambiaron
+        run: |
+          if git diff --quiet -- assets/stats.svg assets/langs.svg; then
+            echo "Sin cambios."
+          else
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/stats.svg assets/langs.svg
+            git commit -m "chore: actualizar estadisticas"
+            git push
+          fi
