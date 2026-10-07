@@ -66,6 +66,7 @@ Mis compañeros ideales son **Claude Code, Gemini 4.0 y Grok**. Mi objetivo es c
 | 🤖 **[Plantillas de bots](https://github.com/AlbertiJ/Plantillas-de-bots)** | Panel de administración para bots de Telegram y Discord: lanzar, supervisar con watchdog y recuperar bots, con autenticación y Docker. | FastAPI · Python · Docker |
 | 🗃️ **[Guardian de Obsidian](https://github.com/AlbertiJ/Guardian-Obsidian-Boveda)** | Demonio multiplataforma de bajo consumo que automatiza los WikiLinks y las etiquetas YAML de una bóveda de Obsidian. | Python · watchdog |
 | 🎓 **[Claude Academia](https://github.com/AlbertiJ/academia_claude)** | Lecciones para aprender a usar Claude y a escribir buenos prompts, de 0 a avanzado, en una app web instalable. | HTML · JavaScript · PWA |
+| 🤝 **[tetransfiero.com](https://tetransfiero.com)** | Proyecto social, **gratuito y sin publicidad**. | Proyecto social |
 
 ---
 
